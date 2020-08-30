@@ -10,8 +10,8 @@ Features
 --------
 
 - **Two player** LAN multiplayer. 
-- Items that can be purchased from a moblie device.
-- Contains majority of features from the original Space Invaders game.
+- Items that can be purchased from a **moblie device**.
+- Contains **majority** of features from the original Space Invaders game.
 
 	
 Purchasing Items

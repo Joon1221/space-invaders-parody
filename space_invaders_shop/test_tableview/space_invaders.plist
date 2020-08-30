@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ItemName</key>
+	<array>
+		<string>Double Point Item</string>
+		<string>Skin Changing Item Blue</string>
+		<string>Skin Changing Item Green</string>
+		<string>Skin Changing Item Red</string>
+	</array>
+	<key>Thumbnail</key>
+	<array>
+		<string>double_point_item.png</string>
+		<string>skin_changing_item_blue.png</string>
+		<string>skin_changing_item_green.png</string>
+		<string>skin_changing_item_red.png</string>
+	</array>
+	<key>ItemDesc</key>
+	<array>
+		<string>Gives x2 Extra Points</string>
+		<string>Changes Spaceship Colour to Blue</string>
+		<string>Changes Spaceship Colour to Green</string>
+		<string>Changes Spaceship Colour to Red</string>
+	</array>
+</dict>
+</plist>

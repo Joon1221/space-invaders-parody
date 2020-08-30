@@ -1,6 +1,6 @@
 # Space Invaders Parody
 
-A parody of the popular arcade game Space Invaders.
+A two-player remake of the popular arcade game Space Invaders.
 
 <p align="left">
   <img src="./assets/demo.gif" alt="Size Limit CLI" width="600">
